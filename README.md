@@ -1,3 +1,8 @@
+
+Plugin - Gatsby plugin web site -  npm install gatsby-source-filesystem
+Plugin -  - npm install gatsby-transformer-remark
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
