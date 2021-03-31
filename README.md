@@ -1,6 +1,7 @@
 
 Plugin - Gatsby plugin web site -  npm install gatsby-source-filesystem
 Plugin -  - npm install gatsby-transformer-remark
+Deploy - https://www.netlify.com/
 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
